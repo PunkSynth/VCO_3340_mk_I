@@ -9,6 +9,7 @@ The schematic and the BOM-list is provided as pdf-documents.
 
 ## Layout
 Four pictures are provided to show how the PCBs are populated.
+In the picture of the VCO panel PCB there is a modification. Two voltage follower buffers (TL072) has been added to the "Fine_Buf" and the "Coars_Buf" to achieve the correct signal level.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
